@@ -1,5 +1,11 @@
 To do list in django
 
+
+https://github.com/Vnill125/Django-To-Do-list/assets/129762972/290c32da-a714-4c4d-b3da-fa2dac98a9e1
+
+
+
+
 List:
 
 ![django notes 1](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/827f3152-8f2c-4999-b158-217fba99017c)

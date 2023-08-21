@@ -22,6 +22,5 @@ Update note:
 
 
 Delete note:
-
 ![dasd](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/578589da-5e4f-43d2-a79d-c40fb62952f5)
 

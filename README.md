@@ -1,19 +1,25 @@
 To do list in django
 
 
-https://github.com/Vnill125/Django-To-Do-list/assets/129762972/290c32da-a714-4c4d-b3da-fa2dac98a9e1
+
+
+https://github.com/Vnill125/Django-To-Do-list/assets/129762972/05bbc2cb-b695-498e-b782-0deeb56db6bc
+
+
 
 
 
 
 List:
+![Przechwytywanie](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/da8c98ec-53cb-4c59-9a98-f5cde2afc6df)
 
-![django notes 1](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/827f3152-8f2c-4999-b158-217fba99017c)
+
 
 Update note:
+![prz](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/1cc6b01f-f833-4bec-b0ed-5d838d7e548b)
 
-![django notes 3](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/793df57a-b4bd-43be-9b66-68529354c83f)
 
 Delete note:
 
-![django notes 2](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/3e1b6bea-afe5-4f87-a719-971cc3b574bb)
+![dasd](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/578589da-5e4f-43d2-a79d-c40fb62952f5)
+

@@ -11,11 +11,13 @@ https://github.com/Vnill125/Django-To-Do-list/assets/129762972/05bbc2cb-b695-498
 
 
 List:
+
 ![Przechwytywanie](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/da8c98ec-53cb-4c59-9a98-f5cde2afc6df)
 
 
 
 Update note:
+
 ![prz](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/1cc6b01f-f833-4bec-b0ed-5d838d7e548b)
 
 

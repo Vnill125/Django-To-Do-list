@@ -48,13 +48,13 @@
 </style>
 <div class="center-column">
 
-<h3>Aktualizuj zadanie</h3>
+<h3>Update Task</h3>
 
 <form method="POST" action="">
 	{% csrf_token %}
 
 	{{form}}
-	<input type="submit" class="btn btn-info" name="Update Task" placeholder="Dodaj">
+	<input type="submit" class="btn btn-info" value="Submit" name="Update Task" placeholder="Dodaj">
 	
 	
 </form>

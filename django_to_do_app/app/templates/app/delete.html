@@ -48,12 +48,12 @@
 </style>
 
 <div class="center-column">
-<h4> Na pewno chcesz usunąć zadanie "{{item}}"?</h4>
+<h4> Are you sure you want to delete "{{item}}"?</h4>
 
 <form method="POST" action="">
 	{% csrf_token %}
-	<input type="submit" class="btn btn-info" name="Confirm">
+	<input type="submit" value="Submit" class="btn btn-info" name="Confirm">
 
-    <a class="btn btn-sm btn-danger" href="{% url 'list' %}">Powrót</a>
+    <a class="btn btn-sm btn-danger" href="{% url 'list' %}">Back</a>
 </form>
 </div>

@@ -16,11 +16,15 @@ List:
 
 
 
+
 Update note:
 
 ![prz](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/1cc6b01f-f833-4bec-b0ed-5d838d7e548b)
 
 
+
+
 Delete note:
+
 ![dasd](https://github.com/Vnill125/Django-To-Do-list/assets/129762972/578589da-5e4f-43d2-a79d-c40fb62952f5)
 
